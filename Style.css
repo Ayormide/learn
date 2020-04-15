@@ -1,0 +1,87 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(3, 45, 97);
+    background-size: cover;
+    background-position:  center;
+
+}
+.sign-up-form
+{
+    width: 450px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 10% auto 0;
+    text-align: start;
+    border-radius: 3%;
+}
+.sign-up-form h2
+{
+    color: rgb(3, 45, 97);
+    margin-bottom: 30px;
+    text-align: center;
+    text-emphasis: 5px;
+    font-size: 155%;
+
+}
+.sign-up-form p
+{
+    text-align: center;
+    text-emphasis: 10%;
+    margin-top: -6%;
+}
+h4
+{
+    text-align: center;
+    color: rgb(229, 235, 250);
+}
+h1
+{
+    text-align: center;
+    color: rgb(229, 235, 250);
+}
+.sign-up-form select
+{
+    width: 90%;
+    margin-left: 3%;
+    font-size: 200%;
+    tab-size: 100px;
+    border-radius: 5%;
+    background: rgb;
+}
+.input-box
+{
+border-radius: 5px;
+border-bottom-left-radius: -5%;
+padding: 10px;
+margin-left: 3%;
+width: 90%;
+font-size: medium;
+tab-size: 100px;
+border: 1px solid #999;
+outline: none;
+text-align: left;
+background: rgb(229, 235, 250);
+
+}
+button
+{
+    color: #fff;
+    font-size: 15px;
+    width: 90%;
+    padding: 10px;
+    background: rgb(3, 45, 97);
+    border-radius: 0%;
+}
+label
+{
+font-size: 90%;
+margin-left: 3%;
+}
+option
+{
+    size: 150%;
+}
